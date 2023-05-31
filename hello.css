@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+  }
+  
+  #messageBoxContainer {
+    /* Container styles */
+  }
+  
+  #messageBox {
+    /* Message box styles */
+  }
